@@ -1,0 +1,6 @@
+artifact_location: file:///home/atharav/Triton/improved_integrations/mlruns/581030874069470179
+creation_time: 1716880199313
+experiment_id: '581030874069470179'
+last_update_time: 1716880199313
+lifecycle_stage: active
+name: MNIST_ONNX_Experiment

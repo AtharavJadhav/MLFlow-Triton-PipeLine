@@ -1,0 +1,15 @@
+artifact_uri: file:///home/atharav/Triton/improved_integrations/mlruns/581030874069470179/1b45374f3d8e4588b05ed269d45b4f54/artifacts
+end_time: 1716880550102
+entry_point_name: ''
+experiment_id: '581030874069470179'
+lifecycle_stage: active
+run_id: 1b45374f3d8e4588b05ed269d45b4f54
+run_name: amazing-toad-653
+run_uuid: 1b45374f3d8e4588b05ed269d45b4f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716880199547
+status: 3
+tags: []
+user_id: atharav
